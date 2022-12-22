@@ -23,8 +23,4 @@
 - Vanilla Javascript
 
 
-## Note:
 
-I used **Vanilla javascript** to change the content of the pages by fetching the data from the `json` local file
-```js
-eleId.textContent = jsonData[idField];
