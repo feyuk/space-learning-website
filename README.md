@@ -2,7 +2,6 @@
 
 ![Space tourism website](./image-preview.png)
 
-```
 ### Features:
 
 - View the optimal layout for each of the website's pages depending on their device's screen size
@@ -22,5 +21,10 @@
 - Accessibility workflow
 - Vanilla Javascript
 
+## Note:
+
+I used **Vanilla javascript** to change the content of the pages by fetching the data from the `json` local file
+```js
+eleId.textContent = jsonData[idField];
 
 
