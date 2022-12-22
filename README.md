@@ -18,7 +18,6 @@
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- Accessibility workflow
 - Vanilla Javascript
 
 ## Note:
